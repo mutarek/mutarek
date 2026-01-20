@@ -1,72 +1,139 @@
-## 💼 Work Experience
+# 📱 Production Mobile Applications
 
-### 🔹 Senior Mobile & Web Application Developer
+**Flutter & Native Android (Kotlin)**
 
-**Freelance / Contract / Remote**
-📅 *2015 – Present*
-
-* Designed, developed, and deployed **mobile and web applications** used in real-world production environments
-* Built **cross-platform mobile apps** using **Flutter** with REST API integrations
-* Developed **scalable backend systems** using **PHP, Laravel, and CodeIgniter**
-* Designed and optimized **relational & NoSQL databases** (MySQL, MS SQL, MongoDB)
-* Implemented **authentication, role-based access, payment systems, and admin dashboards**
-* Integrated **Firebase services** (Auth, Firestore, Push Notifications)
-* Deployed applications on **cloud infrastructure (GCP)** and managed production environments
-* Collaborated with designers, clients, and developers to deliver business-driven solutions
-* Focused on **clean architecture, performance optimization, and security best practices**
-
-**Key Domains:**
-📱 Mobile Apps • 🌐 Web Platforms • 🏨 Hotel & Tourism Systems • 🏙 City Information Systems • 📊 CMS Solutions
+Senior Mobile Application Developer with **9+ years of experience** building **production-scale apps** used by **real users**, including **FinTech-enabled SME platforms**, **customer self-care apps**, and **on-demand service marketplaces**.
 
 ---
 
-### 🔹 Lead Developer – Dhaka City Project
-
-**Open Source / Community Platform**
-📅 *Ongoing*
-
-* Architect and lead developer of **Dhaka City**, a large-scale city information platform
-* Responsible for **system architecture, database design, and feature planning**
-* Implemented **modular CMS structure** for scalable content management
-* Optimized application performance and SEO for high traffic usage
-* Managing roadmap, issues, and open-source contributions
-
-🔗 Project: [https://github.com/mutarek/dhaka_city](https://github.com/mutarek/dhaka_city)
+## 🚀 Featured Applications
 
 ---
 
-### 🔹 Full Stack Developer – Custom CMS
+## 🔹 Sheba Manager
 
-**Open Source Project**
-📅 *Ongoing*
+**Platform:** Flutter | Android
+**Role:** Senior Mobile Application Developer
+**Domain:** FinTech / SME Super App / Digital Wallet
+**Status:** Live on Google Play Store
 
-* Developed a **custom CMS** tailored for flexibility and performance
-* Built reusable modules, authentication systems, and admin controls
-* Focused on **security, scalability, and maintainability**
-* Open for collaboration and contributor-driven enhancements
+A **FinTech-enabled SME super app** built for small and medium business owners within the **Sheba.xyz ecosystem**, combining **business operations** and **digital payments** in one platform.
 
-🔗 Project: [https://github.com/mutarek/Custom_CMS](https://github.com/mutarek/Custom_CMS)
+### 🔑 Key Features
+
+* SME business operations management
+* **Sheba Pay digital wallet**
+* Wallet **balance ledger & transaction history**
+* Job & order lifecycle management
+* Earnings overview and financial insights
+* Real-time notifications and updates
+* Secure REST API integrations
+
+### 🧠 Technical Highlights
+
+* Flutter-based scalable architecture
+* Secure API authentication & authorization
+* Real-time data synchronization
+* Performance optimization for high daily active usage
+* Play Store release management and maintenance
+
+### 💼 Business Impact
+
+* Digitized daily operations for thousands of SME owners
+* Enabled **cashless transactions** via built-in wallet
+* Improved financial visibility and reduced manual bookkeeping
+* Supported scalable SME onboarding
+
+🔗 **Google Play:**
+[https://play.google.com/store/apps/details?id=xyz.sheba.managerapp](https://play.google.com/store/apps/details?id=xyz.sheba.managerapp)
 
 ---
 
-### 🔹 Backend & System Developer – BD Hotels
+## 🔹 MyAKASH
 
-**Tourism & Hospitality Platform**
-📅 *Project-based*
+**Platform:** Native Android (Kotlin)
+**Role:** Mobile Application Developer
+**Domain:** ISP / Customer Self-Care Application
+**Status:** Live on Google Play Store
 
-* Developed backend features for a **hotel & motel listing platform**
-* Designed database schema for hotels, locations, and bookings
-* Implemented CRUD systems, filtering, and admin management tools
-* Currently seeking contributors to expand the platform
+A native Android application designed for **ISP customers**, enabling **self-service account management** and reducing dependency on customer support.
 
-🔗 Project: [https://github.com/mutarek/MotelsofBD](https://github.com/mutarek/MotelsofBD)
+### 🔑 Key Features
+
+* Secure user authentication
+* Account & service information
+* Usage and subscription details
+* Backend-driven real-time data
+* Notifications and service updates
+
+### 🧠 Technical Highlights
+
+* Native Android development using **Kotlin**
+* Android Jetpack components
+* REST API integration
+* Optimized for device compatibility and performance
+* Google Play compliance and updates
+
+### 💼 Business Impact
+
+* Increased customer self-service adoption
+* Reduced support center workload
+* Improved customer engagement and retention
+
+🔗 **Google Play:**
+[https://play.google.com/store/apps/details?id=com.redtech.myakash](https://play.google.com/store/apps/details?id=com.redtech.myakash)
 
 ---
 
-### 🧩 Additional Experience Highlights
+## 🔹 Sheba.xyz (Customer App)
 
-* ✅ 9+ years of continuous development experience
-* ✅ Delivered multiple projects from **concept → production**
-* ✅ Experience working with **international clients**
-* ✅ Strong understanding of **business requirements & UX**
-* ✅ Comfortable working independently or in distributed teams
+**Platform:** Flutter | Android
+**Role:** Mobile Application Developer
+**Domain:** On-Demand Service Marketplace
+**Status:** Live on Google Play Store
+
+The official **Sheba.xyz consumer application**, enabling users to book **home and professional services** through a seamless mobile experience.
+
+### 🔑 Key Features
+
+* Service discovery & booking flow
+* User account and profile management
+* Order tracking and notifications
+* Scalable UI for high user traffic
+
+### 🧠 Technical Highlights
+
+* Flutter-based UI development
+* Integration with large-scale production APIs
+* Performance optimization for mass usage
+* Material Design–based UX
+
+### 💼 Business Impact
+
+* Enabled on-demand service booking for a large user base
+* Supported marketplace scalability and reliability
+* Contributed to platform growth and user trust
+
+🔗 **Google Play:**
+[https://play.google.com/store/apps/details?id=xyz.sheba.customersapp](https://play.google.com/store/apps/details?id=xyz.sheba.customersapp)
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile:** Flutter, Dart, Kotlin, Android SDK
+**Architecture:** MVC, MVVM, Modular Architecture
+**Backend Integration:** REST APIs, Authentication
+**Data & Storage:** SQLite, SharedPreferences
+**Tools:** Firebase, Git, Google Play Console
+
+---
+
+## ⭐ Summary
+
+* ✅ Production apps used by **real businesses and consumers**
+* ✅ Experience with **FinTech, Wallets, and Super App ecosystems**
+* ✅ Strong Flutter + Native Android expertise
+* ✅ Full lifecycle ownership: development → release → maintenance
+
+📩 **Open to Flutter / Android (Kotlin) / FinTech / Super App roles**
