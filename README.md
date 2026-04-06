@@ -2,7 +2,7 @@
 
 **Flutter & Native Android (Kotlin)**
 
-Senior Mobile Application Developer with **9+ years of experience** building **production-scale apps** used by **real users**, including **FinTech-enabled SME platforms**, **customer self-care apps**, and **on-demand service marketplaces**.
+Senior Mobile Application Developer with **6+ years of experience** building **production-scale apps** used by **real users**, including **FinTech-enabled SME platforms**, **customer self-care apps**, and **on-demand service marketplaces**.
 
 ---
 
